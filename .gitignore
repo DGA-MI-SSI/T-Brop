@@ -1,0 +1,11 @@
+*.pyc
+*.exe
+*.i64
+*.id0
+*.id1
+*.id2
+*.nam
+*.til
+*.db
+*.db-journal
+*../.vscode
