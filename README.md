@@ -1,3 +1,8 @@
+Since the authors left DGA-MI, the project moved to [clslgrnc/tbrop](https://github.com/clslgrnc/tbrop/).
+Do not expect significantly more activity though...
+
+---
+
 PoC
 
 The Dockerfile can be used as a crude installation instruction.
